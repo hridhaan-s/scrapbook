@@ -1200,6 +1200,46 @@
 "https://cdn.hackclub.com/019e8f58-0d2b-7672-b380-0fe3a269d8db/screenshot_2026-06-04_024513.png"
 ]
 }
+,
+    {
+"id": "bitbuzz-store-v2",
+"title": "The BitBuzz Store V2",
+"slug": "bitbuzz-store-v2",
+
+"description": "A Site Made to Display my brother's books that he authored :D this is the latest version",
+
+"story": "",
+
+"impact": [
+"Built a dedicated platform for showcasing my brother's books"
+],
+
+"date": "2026-06-04",
+
+"status": "completed",
+
+"type": "web-app",
+
+"github": "https://github.com/hridhaan-s/Bitbuzz-Store",
+
+"live": "https://store.bitbuzz.club/",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019e8fe9-0792-7af4-af6b-c9fb9f504534/screenshot_2026-06-04_052141.png",
+
+"technologies": [],
+
+"tags": [
+"personal"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8fe9-09af-7a62-87eb-c1a984e29a84/screenshot_2026-06-04_052157.png",
+"https://cdn.hackclub.com/019e8fe9-0bf1-7987-8d6d-311102fa6d87/screenshot_2026-06-04_052208.png",
+"https://cdn.hackclub.com/019e8fe9-0e5f-7df4-ba5e-91a474f4719f/screenshot_2026-06-04_052241.png"
+]
+}
 
 
 ]
