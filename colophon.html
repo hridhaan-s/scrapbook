@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="icon" type="image/png" href="https://cdn.hackclub.com/019e8ecb-5b36-7aa2-b8f2-c215ef4de2dd/image.png">
+<link rel="shortcut icon" href="https://cdn.hackclub.com/019e8ecb-5b36-7aa2-b8f2-c215ef4de2dd/image.png">
+<link rel="apple-touch-icon" href="https://cdn.hackclub.com/019e8ecb-5b36-7aa2-b8f2-c215ef4de2dd/image.png">
+    <header class="topbar">
+            <div class="logo">
+                Hridhaan's Project Scrapbook
+            </div>
+            <nav>
+                <a href="index.html">Index</a>
+                <a href="colophon.html">Colophon</a>
+            </nav>
+        </header>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Colophon — Hridhaan</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <main class="colophon-page">
+
+        <div class="colophon-label">
+            COLOPHON
+        </div>
+
+        <h1 class="colophon-title">
+            About the archive
+        </h1>
+
+        <div class="colophon-divider"></div>
+
+        <div class="colophon-content">
+
+            <p>
+                My main site keeps things tidy — only the projects I'm most proud of.
+                This scrapbook is the messy, honest version:
+                <em>everything</em> I've ever built, in one place,
+                in black and white.
+            </p>
+
+            <p>
+                Each entry has a thumbnail, a short note, the languages I used,
+                and where the project lived in my life — school,
+                a hackathon, a weekend experiment, a thing for a friend.
+            </p>
+
+            <p>
+                Most entries link back to GitHub, live demos,
+                or archived screenshots. Some projects are polished.
+                Some are weird experiments.
+                Both deserve a place here.
+            </p>
+
+            <p>
+                Only I can add or edit entries —
+                the rest of the world just reads.
+            </p>
+
+        </div>
+
+        <a href="index.html" class="back-button">
+            ↩ BACK TO THE INDEX
+        </a>
+
+    </main>
+
+    <footer class="site-footer">
+
+    <div class="footer-top">
+
+        <div class="footer-brand">
+            THE SCRAPBOOK
+        </div>
+
+        <div class="footer-links">
+
+            <a href="https://hridhaan.me">
+                Main Site
+            </a>
+
+            <a href="https://github.com/hridhaan-s">
+                GitHub
+            </a>
+
+            <a href="https://scrapbook.hridhaan.me">
+                Scrapbook
+            </a>
+
+            <a href="https://astro.hridhaan.me">
+                Astrophotography
+            </a>
+
+            <a href="https://www.linkedin.com/in/hridhaan-sahay">
+                LinkedIn
+            </a>
+
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+
+        <span>
+            © 2026 Hridhaan Sahay. All rights reserved.
+            (Made during my Summer Vacation of 2026)
+        </span>
+
+        <span>
+            ALL ENTRIES ARE HANDMADE BY ME :D
+        </span>
+
+    </div>
+
+</footer>
+<script src="https://unpkg.com/lenis@1.1.16/dist/lenis.min.js"></script>
+
+<script>
+const lenis = new Lenis({
+    duration: 1.2,
+    smoothWheel: true
+});
+
+function raf(time){
+    lenis.raf(time);
+    requestAnimationFrame(raf);
+}
+
+requestAnimationFrame(raf);
+</script>
+
+</body>
+
+</html>

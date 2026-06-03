@@ -1,0 +1,1205 @@
+[
+    {
+"id": "bitbuzz",
+"title": "BitBuzz",
+"slug": "bitbuzz",
+
+"description": "A global technology and innovation platform serving 23,500+ users across 50+ countries with coverage of technology, innovation, science, and space—without politics, sensationalism, or bias.",
+
+"story": "BitBuzz began as a simple idea when I was in Grade 9: create a place where people could discover technology, innovation, startups, science, and space without being overwhelmed by politics, negativity, or clickbait. What started as a small passion project gradually evolved into a global platform reaching more than 23,500 users across 50+ countries. Over the years, BitBuzz expanded far beyond a website. It became an ecosystem of tools, experiments, community initiatives, newsletters, events, and student-led projects. As the platform grew, I assembled and led an international team of student contributors who helped operate, improve, and expand BitBuzz. More than any single project I've built, BitBuzz taught me long-term execution, leadership, product development, community building, and the reality of growing something over multiple years. It remains the project I have worked on for the longest and continues to evolve today.",
+
+"impact": [
+"Reached 23,500+ users worldwide",
+"Audience spanning 50+ countries",
+"Built and maintained over 4+ years",
+"Started in Grade 9 and continues today",
+"Established and led a global team of student contributors",
+"Created an ecosystem of products, tools, newsletters, and community initiatives",
+"Focused on unbiased coverage of technology, innovation, science, and space"
+],
+
+"date": "2026-06-04",
+
+"status": "active",
+
+"type": "flagship",
+
+"github": "",
+"live": "https://www.bitbuzz.club",
+
+"featured": true,
+
+"coverImage": "https://www.hridhaan.me/Screenshot%202026-05-09%20172150.png",
+
+"technologies": [
+"HTML",
+"CSS",
+"JavaScript",
+"Firebase",
+"APIs",
+"Community Building",
+"Content Systems"
+],
+
+"tags": [
+"flagship",
+"startup",
+"community",
+"media",
+"technology",
+"leadership",
+"bitbuzz"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8f6d-d6f1-7c09-920b-ad3699495c11/screenshot_2026-06-04_030505.png",
+"https://cdn.hackclub.com/019e8f6d-dd8e-773e-833c-fa755f28c1c2/screenshot_2026-06-04_030516.png",
+"https://cdn.hackclub.com/019e8f6d-dfd3-72de-a23c-7b4dc9e2d9e3/screenshot_2026-06-04_030524.png",
+"https://cdn.hackclub.com/019e8f6d-e1f8-7d63-9bda-c066a1ecbe95/screenshot_2026-06-04_030537.png",
+"https://cdn.hackclub.com/019e8f6d-e456-7355-8802-c23ae113c1ff/screenshot_2026-06-04_030546.png",
+"https://cdn.hackclub.com/019e8f6d-e685-79d1-8a36-4f8bde4e3bf4/screenshot_2026-06-04_030552.png",
+"https://cdn.hackclub.com/019e8f6d-3fcf-76bd-838f-4e49481599d9/screenshot_2026-06-04_030557.png",
+"https://cdn.hackclub.com/019e8f6d-41dd-7c04-b4d2-70d1a62b9dc8/screenshot_2026-06-04_030614.png",
+"https://cdn.hackclub.com/019e8f6d-43ac-75d4-8417-8e2b66e3ce7a/screenshot_2026-06-04_030624.png",
+"https://cdn.hackclub.com/019e8f6d-45b8-7dbb-bb61-8e430b9f2466/screenshot_2026-06-04_030631.png",
+"https://cdn.hackclub.com/019e8f6d-486d-78be-9242-946cceaea221/screenshot_2026-06-04_030641.png",
+"https://cdn.hackclub.com/019e8f6d-4a79-7a52-b8f9-84c1196b65e2/screenshot_2026-06-04_030649.png",
+"https://cdn.hackclub.com/019e8f6d-4c6a-7f96-8feb-7d4c6cdc792a/screenshot_2026-06-04_030659.png"
+]
+}
+,
+  {
+  "id": "the-hridhaan-site",
+  "title": "The Hridhaan Site",
+  "slug": "the-hridhaan-site",
+
+  "description": "A Page to display my projects and my Astrophotgraphs I used css, html and java to make my personal site\n\nVisit it here: www.Hridhaan.me\n\n*Fun Fact i got this domain with Github Pro (Student dev Pack)\n\nLast Updated: 25 May 2026",
+
+  "story": "",
+
+  "impact": [],
+
+  "date": "2026-01-02",
+
+  "status": "completed",
+
+  "type": "web-app",
+
+  "github": "https://github.com/hridhaan-s/personal-sitee",
+
+  "live": "https://hridhaan.me/",
+
+  "featured": true,
+
+  "coverImage": "https://cdn.hackclub.com/019e8eb8-dd2f-7961-b815-f66d094e79ec/image.png",
+
+  "technologies": [
+    "html",
+    "css",
+    "js"
+  ],
+
+  "tags": [
+    "social",
+    "open source",
+    "personal",
+    "tool",
+    "school project",
+    "hackathon",
+    "client work",
+    "learning"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019e8ce2-d907-7ee0-8508-eabb7caa894e/screenshot_2026-06-03_151709.png",
+    "https://cdn.hackclub.com/019e8ce2-db64-723d-a71d-d84536436d38/screenshot_2026-06-03_151718.png",
+    "https://cdn.hackclub.com/019e8ce2-dd5e-7718-8588-1ad437b83aa6/screenshot_2026-06-03_151728.png",
+    "https://cdn.hackclub.com/019e8ce2-df31-7cd2-a6f2-0aacc51ef826/screenshot_2026-06-03_151736.png",
+    "https://cdn.hackclub.com/019e8ce2-e0f4-776f-aeb8-23bc372cb367/screenshot_2026-06-03_151745.png"
+  ]
+}
+,
+{
+"id": "flag-it",
+"title": "Flag It",
+"slug": "flag-it",
+
+"description": "A community-driven cyber safety platform designed to help people report scams, fraud, and suspicious activity while raising awareness about cybercrime.",
+
+"story": "Flag It started from frustration. I kept seeing people lose money, accounts, and trust to online scams that could have been avoided with better awareness. Rather than just talking about the problem, I decided to build something around it. The platform allows people to anonymously report scams and suspicious activity while helping spread cyber safety awareness. This became one of my favorite projects because it wasn't just another website—it was built around protecting people. The response was far stronger than expected and helped drive significant attention to BitBuzz.",
+
+"impact": [
+"Built to increase cybercrime awareness",
+"Anonymous and free reporting system",
+"Focused on scam and fraud prevention",
+"Generated significant community engagement",
+"Contributed to 10,000+ additional site visits",
+"One of my favorite projects to build"
+],
+
+"date": "2026-06-04",
+
+"status": "active",
+
+"type": "social-impact",
+
+"github": "",
+"live": "https://www.bitbuzz.club/flag-it",
+
+"featured": true,
+
+"coverImage": "https://cdn.hackclub.com/019e8f5f-664f-736e-a37a-9abb4321a2cc/screenshot_2026-06-04_024700.png",
+
+"technologies": [
+"HTML",
+"CSS",
+"JavaScript",
+"Community Reporting"
+],
+
+"tags": [
+"cybersecurity",
+"social-impact",
+"community",
+"awareness",
+"bitbuzz"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8f5f-5fa7-7d74-bd47-c1de992fad5c/screenshot_2026-06-04_024634.png",
+"https://cdn.hackclub.com/019e8f5f-61ef-7464-b05d-a6e26fc3e071/screenshot_2026-06-04_024639.png",
+"https://cdn.hackclub.com/019e8f5f-63e8-7009-9f05-e62cf8e41cc6/screenshot_2026-06-04_024649.png",
+"https://cdn.hackclub.com/019e8f5f-664f-736e-a37a-9abb4321a2cc/screenshot_2026-06-04_024700.png",
+"https://cdn.hackclub.com/019e8f5f-684d-7ecd-b915-c20fe383dd17/screenshot_2026-06-04_024621.png"
+]
+}
+,
+{
+"id": "opportunity-feed",
+"title": "Opportunity Feed",
+"slug": "opportunity-feed",
+
+"description": "A curated feed of hackathons, fellowships, competitions, bounties, internships, and student opportunities from around the world.",
+
+"story": "Opportunity Feed was built around a simple idea: students miss great opportunities because they never hear about them. The platform aggregates hackathons, fests, fellowships, competitions, bounties, and other opportunities into a single feed. Beyond helping students discover opportunities, it also became a useful tool for growing the BitBuzz community and building what eventually became the BitBuzz Squad—a global team of student builders, contributors, and volunteers.",
+
+"impact": [
+"Aggregated opportunities from multiple sources",
+"Helped students discover hackathons and fellowships",
+"Used to recruit members for the BitBuzz Squad",
+"Supported community growth and engagement",
+"Created a central hub for student opportunities"
+],
+
+"date": "2026-06-04",
+
+"status": "active",
+
+"type": "community",
+
+"github": "",
+"live": "https://www.bitbuzz.club/opportunity-feed",
+
+"featured": true,
+
+"coverImage": "https://cdn.hackclub.com/019e8f63-28d7-7ca8-b49e-75790c81479d/screenshot_2026-06-04_025644.png",
+
+"technologies": [
+"HTML",
+"CSS",
+"JavaScript",
+"Community Building"
+],
+
+"tags": [
+"community",
+"students",
+"opportunities",
+"hackathons",
+"bitbuzz"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8f63-28d7-7ca8-b49e-75790c81479d/screenshot_2026-06-04_025644.png",
+"https://cdn.hackclub.com/019e8f63-2b1b-71d9-83af-fb913c75bc5d/screenshot_2026-06-04_025719.png",
+"https://cdn.hackclub.com/019e8f63-2d26-7de3-987b-ce4262b25465/screenshot_2026-06-04_025725.png",
+"https://cdn.hackclub.com/019e8f63-2f52-78b5-8ff0-90ae0278d812/screenshot_2026-06-04_025734.png",
+"https://cdn.hackclub.com/019e8f63-31b8-7bc2-b8d9-7923697f6ba8/screenshot_2026-06-04_025742.png"
+]
+}
+,
+  {
+  "id": "mac-book-style-virtual-pc",
+  "title": "Mac-Book Style Virtual PC",
+  "slug": "mac-book-style-virtual-pc",
+
+  "description": "A Mac-OS style virtual PC i made to store files and open them anywhere from the world made it because it looked super cool to have something like that and had a lot applications for instance i used it to do my IT work on school pc and continue in my home and all files were saved",
+
+  "story": "A Mac-OS style virtual PC i made to store files and open them anywhere from the world made it because it looked super cool to have something like that and had a lot applications for instance i used it to do my IT work on school pc and continue in my home and all files were saved",
+
+  "impact": [
+    "Just a cool thing I made on a weekend :D",
+    "Live at Mac.hridhaan.me",
+    "Took around 7 hours to build"
+  ],
+
+  "date": "2026-06-03",
+
+  "status": "active",
+
+  "type": "web-app",
+
+  "github": "https://github.com/hridhaan-s/MAC",
+
+  "live": "https://mac.hridhaan.me",
+
+  "featured": true,
+
+  "coverImage": "https://cdn.hackclub.com/019e8cf5-4d4a-79ac-b4f8-0ede7973eaaf/screenshot_2026-06-03_153653.png",
+
+  "technologies": [
+    "HTML",
+    "JavaScript",
+    "CSS"
+  ],
+
+  "tags": [
+    "tool",
+    "social",
+    "school-project",
+    "hackathon",
+    "client-work",
+    "learning",
+    "personal",
+    "open-source"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019e8cf5-46f3-76b7-88ab-04bb3589f196/screenshot_2026-06-03_153702.png",
+    "https://cdn.hackclub.com/019e8cf5-492d-7f72-b4d3-f50a69abdb13/screenshot_2026-06-03_153715.png",
+    "https://cdn.hackclub.com/019e8cf5-4b89-7f04-8e7f-17dc20848705/screenshot_2026-06-03_153804.png",
+    "https://cdn.hackclub.com/019e8cf5-4d4a-79ac-b4f8-0ede7973eaaf/screenshot_2026-06-03_153653.png",
+    "https://cdn.hackclub.com/019e8cf7-7612-74ac-a94b-7fada8d72f99/screenshot_2026-06-03_154012.png",
+    "https://cdn.hackclub.com/019e8cf7-7836-7ff7-9c90-51bb7a00aafb/screenshot_2026-06-03_154105.png"
+  ]
+},
+{
+"id": "buzz-letter",
+"title": "Buzz Letter",
+"slug": "buzz-letter",
+
+"description": "The official digital newsletter platform of my school, serving over 4,000 active readers and showcasing student stories, achievements, and events.",
+
+"story": "Built during the Summer Vacation of 2026, Buzz Letter became the official digital newsletter platform for my school, serving a community of over 4,000 active readers. As the School Captain (ICT) for the 2025–26 session, I led the initiative from concept to launch, designing both the platform and its public-facing website. The project was one of the major objectives of my term and extended far beyond coding. I coordinated with student council members, collaborated closely with the Literature Team, and helped establish a workflow for creating, reviewing, and publishing content. Through this experience, I learned valuable lessons in leadership, project management, delegation, and working with teams toward a shared goal. What began as a technical project evolved into a school-wide publishing platform that gave students a voice, improved communication, and created a lasting digital record of school events and achievements.",
+
+"impact": [
+"Official school newsletter platform",
+"Served 4,000+ active readers",
+"Led as School Captain (ICT) 2025–26",
+"Managed collaboration between Council and Literature teams",
+"Created a sustainable publishing workflow",
+"One of the major objectives completed during my term"
+],
+
+"date": "2026-06-04",
+
+"status": "active",
+
+"type": "leadership",
+
+"github": "",
+"live": "https://www.bitbuzz.club/buzz-letter",
+
+"featured": true,
+
+"coverImage": "https://cdn.hackclub.com/019e8f65-5379-7c36-9661-662529f7ae66/screenshot_2026-06-04_025908.png",
+
+"technologies": [
+"HTML",
+"CSS",
+"JavaScript",
+"Content Management"
+],
+
+"tags": [
+"leadership",
+"school",
+"newsletter",
+"community",
+"publishing"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8f65-4c2d-78ba-9656-fdfd212127d9/screenshot_2026-06-04_025844.png",
+"https://cdn.hackclub.com/019e8f65-4e8e-7a69-bc29-c58f2e006583/screenshot_2026-06-04_025851.png",
+"https://cdn.hackclub.com/019e8f65-5163-7bf3-a3a2-62cac449819f/screenshot_2026-06-04_025857.png",
+"https://cdn.hackclub.com/019e8f65-5379-7c36-9661-662529f7ae66/screenshot_2026-06-04_025908.png",
+"https://cdn.hackclub.com/019e8f65-5592-796f-895b-17cf154507ca/screenshot_2026-06-04_025915.png"
+]
+}
+,
+  {
+  "id": "404-error-page",
+  "title": "404-error-page",
+  "slug": "404-error-page",
+
+  "description": "Heyy!! I made this 404 error page for my sites made it look hacky and space themed. This was an submission for YSWS Boba drops in Hack Club for a 5$ boba tea grant took around 1.5hrs to build. Thanks for your time!!",
+
+  "story": "Heyy!! I made this 404 error page for my sites made it look hacky and space themed. This was an submission for YSWS Boba drops in Hack Club for a 5$ boba tea grant took around 1.5hrs to build. Thanks for your time!!",
+
+  "impact": [
+    "Used in some of my projects, got a grant of 5$"
+  ],
+
+  "date": "2026-06-03",
+
+  "status": "completed",
+
+  "type": "web-app",
+
+  "github": "https://github.com/hridhaan-s/404-error-page",
+
+  "live": "https://404-error-page-seven.vercel.app/",
+
+  "featured": false,
+
+  "coverImage": "https://cdn.hackclub.com/019e8ed3-a560-7527-97bf-9b4bb5603d7d/image.png",
+
+  "technologies": [
+    "HTML",
+    "CSS"
+  ],
+
+  "tags": [
+    "hackathon",
+    "open-source",
+    "social",
+    "school-project",
+    "client-work",
+    "tool",
+    "learning",
+    "personal"
+  ],
+
+  "gallery": [
+    "https://cdn.example.com/img1.jpg",
+    "https://cdn.example.com/img2.png"
+  ]
+}
+,
+{
+"id": "the-big-bang",
+"title": "The Big Bang",
+"slug": "the-big-bang",
+
+"description": "So.. I like space a lot and it all began with The Big Bang hence, I made a story board like site where anyone can know about how it was all formed and this was accomplished with 3hrs tracked with proper Hackatime and timelapse and in HTML, CSS and JS and the main thing which makes this crazy good is the Interstellar theme music in back ground this one of the peak projects which i liked to make and seeing it again and again is fun ",
+
+"story": "",
+
+"impact": [
+"Got a grant of 20$ from Hack Club YSWS Trailit"
+],
+
+"date": "2026-05-25",
+
+"status": "completed",
+
+"type": "web-app",
+
+"github": "https://github.com/hridhaan-s/The-Big-Bang",
+
+"live": "https://the-big-bang-project.netlify.app",
+
+"featured": true,
+
+"coverImage": "https://cdn.hackclub.com/019e8edc-d690-7ca1-a4ab-4504f0a60a8d/screenshot_2026-06-04_002934.png",
+
+"technologies": [
+"HTML",
+"CSS",
+"JavaScript"
+],
+
+"tags": [
+"personal",
+"learning",
+"open-source"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8edc-d9a7-73a6-9a0f-493d1ceec541/screenshot_2026-06-04_002945.png",
+"https://cdn.hackclub.com/019e8edc-dbb1-766e-9976-443be09cb765/screenshot_2026-06-04_002957.png"
+]
+}
+,
+{
+"id": "decision",
+"title": "Decision",
+"slug": "decision",
+
+"description": "Heyy! So i was thinking to make a good project then i thought of 3 ideas but i was confused how to decide so i apparently dropped those 3 ideas for now and made a project that helps you decide !!! Black and white theme as required!!\n\nthank you for your time!!",
+
+"story": "",
+
+"impact": [
+"Made for YSWS Boba Drops in Hack Club"
+],
+
+"date": "2026-01-04",
+
+"status": "completed",
+
+"type": "web-app",
+
+"github": "https://github.com/hridhaan-s/Decision",
+
+"live": "https://decision-tan.vercel.app",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019e8ee3-4b82-7c02-b31d-ad7741f64eb0/screenshot_2026-06-04_003745.png",
+
+"technologies": [],
+
+"tags": [],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8ee3-4d2c-7d16-8ee2-628da5305e0c/screenshot_2026-06-04_003756.png",
+"https://cdn.hackclub.com/019e8ee3-4eb2-7976-9027-e1ef0f7b16c0/screenshot_2026-06-04_003804.png"
+]
+}
+,
+{
+"id": "typer-robot",
+"title": "Typer Robot",
+"slug": "typer-robot",
+
+"description": "Currently WIP since last year dec\nA robo with a hardware similar to 3d printer except that has pen and not filament and same plotter mechanism to help me write low-value tasks like onpaper applications and other documents and save my precious time\n\n(P.s I am using arduino as i have that aldready)",
+
+"story": "",
+
+"impact": [
+"might make it someday ig :D"
+],
+
+"date": "2025-12-01",
+
+"status": "active",
+
+"type": "hardware",
+
+"github": "https://github.com/hridhaan-s/typer-robot",
+
+"live": "",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019e8eea-8731-7ca2-8462-05b2bce3fdda/image.png",
+
+"technologies": [
+"Arduino"
+],
+
+"tags": [],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8eea-4c32-71a0-902b-f878ce7a8cb5/image.png"
+]
+}
+,
+{
+"id": "luminous-space-theme-keychain",
+"title": "Luminous Space Theme Keychain",
+"slug": "luminous-space-theme-keychain",
+
+"description": "A PCB keychain that when plugged to a USB port will light up a LED. I Built with simple resistor-LED circuit and a custom USB edge connector, I wanted to make this to add this to my bag and keys that will look cool to flex and this will also teach and be my first PCB - Designing Project\n\nTools Used\n\nEasyEDA (online PCB design)",
+
+"story": "",
+
+"impact": [
+"Made for Blueprint in Hack Club",
+"Made just for fun :D"
+],
+
+"date": "2026-02-01",
+
+"status": "completed",
+
+"type": "hardware",
+
+"github": "https://github.com/hridhaan-s/Luminous-Space-theme-Keychain/tree/main",
+
+"live": "",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019e8eef-1d9b-78fc-92a9-50f5369b294f/image.png",
+
+"technologies": [
+"EasyEDA"
+],
+
+"tags": [],
+
+"gallery": ["https://cdn.hackclub.com/019e8eec-cbbf-7616-a8a6-ae34254f8c99/image.png"]
+}
+,
+{
+"id": "hack-club-help-contribution",
+"title": "Help! | Hack Club",
+"slug": "hack-club-help-contribution",
+
+"description": "This is Open contribution i did for this page of https://help.hackclub.com/\nHelp! | Hack Club\nThe official Hack Club help website. Swing by #help on Slack if you have any questions!",
+
+"story": "",
+
+"impact": [
+"Huge Impact reaches 12k+ Monthly Views atleast",
+"Subdomain of a site with 19 Million+ Visits"
+],
+
+"date": "2026-06-02",
+
+"status": "completed",
+
+"type": "open-source",
+
+"github": "https://github.com/hridhaan-s/help",
+
+"live": "https://help.hackclub.com/",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019e8ef6-b84d-7ecf-96f7-0667ef5c2197/screenshot_2026-06-04_005604.png",
+
+"technologies": [],
+
+"tags": [
+"open-source"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8ef6-b641-7dbf-a170-65abd62aaf2c/screenshot_2026-06-04_005552.png",
+"https://cdn.hackclub.com/019e8ef6-ba48-7a8d-ab5b-e5f52efd2672/screenshot_2026-06-04_005613.png",
+"https://cdn.hackclub.com/019e8ef6-bc05-7c68-84b7-37cee43a0ac7/screenshot_2026-06-04_005625.png",
+"https://cdn.hackclub.com/019e8f0a-84c7-7f7b-b5ff-a337d20e680e/image.png",
+"https://cdn.hackclub.com/019e8ef6-be1b-7bd0-abeb-f3955afb6670/screenshot_2026-06-04_005632.png"
+]
+}
+,
+{
+  "id": "arcade",
+  "title": "Arcade",
+  "slug": "arcade",
+
+  "description": "A Site I made for an YSWS(You Ship We Ship) Program at Hack Club where teens submit there projects related to theme of Arcade and get rewarded for there projects, I am also the organizer of this event",
+
+  "story": "",
+
+  "impact": [
+    "Made a guide as well",
+    "To be sponsored by hack club maybe to run"
+  ],
+
+  "date": "2026-06-04",
+
+  "status": "completed",
+
+  "type": "web-app",
+
+  "github": "https://github.com/hridhaan-s/Arcade",
+
+  "live": "https://arcade-ysws.vercel.app/",
+
+  "featured": false,
+
+  "coverImage": "https://cdn.hackclub.com/019e7c6e-c5b8-7c74-9591-1b11693e32d1/image.png",
+
+  "technologies": [],
+
+  "tags": [
+    "web",
+    "ysws-program"
+  ],
+
+  "gallery": []
+}
+,
+{
+  "id": "ysws-catalog",
+  "title": "YSWS Catalog",
+  "slug": "ysws-catalog",
+
+  "description": "This is the Official Hack Club YSWS page where all the programs get listed and Massively Visited by the users there this is a sub domain to the domain with more than 19 Million+ Visits. I did Ui changes made the Nav Bar better added new features and revamped it like the Hack Club Main site. Around 3 PRs Done in total for this page which were merged.",
+
+  "story": "",
+
+  "impact": [
+    "200k+ Monthly Users Reached",
+    "A grant of ~100$ was received as a rewards from Hack Club"
+  ],
+
+  "date": "2026-05-28",
+
+  "status": "completed",
+
+  "type": "open-source",
+
+  "github": "https://github.com/hridhaan-s/YSWS-Catalog",
+
+  "live": "",
+
+  "featured": false,
+
+  "coverImage": "https://cdn.hackclub.com/019e8f07-75a7-7d1b-8e7d-1e44318fefec/screenshot_2026-06-04_011610.png",
+
+  "technologies": [],
+
+  "tags": [
+    "open-source"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019e8f07-77d3-76dd-8958-5b91f936bc9c/screenshot_2026-06-04_011620.png",
+    "https://cdn.hackclub.com/019e8f07-7a1a-7cac-87cc-eaf228d0c50d/screenshot_2026-06-04_011535.png",
+    "https://cdn.hackclub.com/019e8f07-7c03-7151-8db2-48fb1fb75886/screenshot_2026-06-04_011543.png",
+    "https://cdn.hackclub.com/019e8f07-7e42-788d-9362-1545893c34da/screenshot_2026-06-04_011553.png",
+    "https://cdn.hackclub.com/019e8f07-804d-77f3-ba73-fe69aa7ea20c/screenshot_2026-06-04_011558.png",
+    "https://cdn.hackclub.com/019e8f0a-84c7-7f7b-b5ff-a337d20e680e/image.png",
+    "https://cdn.hackclub.com/019e8f10-fa0a-7895-8a8b-bf9e80ae2417/screenshot_2026-06-04_012624.png",
+    "https://cdn.hackclub.com/019e8f10-fbcb-764e-9b7f-c4775aad40c6/screenshot_2026-06-04_012639.png"
+  ]
+}
+,
+{
+  "id": "crchem",
+  "title": "CRCHEM",
+  "slug": "crchem",
+
+  "description": "I helped my chemistry teacher by making a site for her this was vibecoded tho as this was a submission for a program at Hack Club which needed websites that were vibecoded this website was approved by both and i got a grant of 5$ as well for this project took around an hour to make",
+
+  "story": "",
+
+  "impact": [
+    "Received a 5$ grant from Hack Club"
+  ],
+
+  "date": "2026-04-30",
+
+  "status": "completed",
+
+  "type": "web-app",
+
+  "github": "https://github.com/hridhaan-s/CRCHEM",
+
+  "live": "https://crchemistry.web.app/",
+
+  "featured": false,
+
+  "coverImage": "https://cdn.hackclub.com/019e8f1a-c83a-7fc2-b175-29da96ccaa44/screenshot_2026-06-04_013630.png",
+
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "AI"
+  ],
+
+  "tags": [],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019e8f1a-c443-7bfc-948d-34ef589794b2/screenshot_2026-06-04_013650.png",
+    "https://cdn.hackclub.com/019e8f1a-c68f-715c-87c6-ddee55b798aa/screenshot_2026-06-04_013659.png"
+  ]
+}
+,
+{
+"id": "fund-manager",
+"title": "Fund Manager",
+"slug": "fund-manager",
+
+"description": "I made a platform that is only for me and my lil brother Ritvik where we manage and keep track of our funds it has everything i need and tbh this is not open sourced lol because this was a custom and special thing i wanted for me and ritvik :D",
+
+"story": "",
+
+"impact": [
+"Private project built specifically for me and Ritvik"
+],
+
+"date": "2025-12-01",
+
+"status": "completed",
+
+"type": "web-app",
+
+"github": "",
+
+"live": "",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019e8f22-a746-79e7-8a66-008b61d3f64a/screenshot_2026-06-04_014719.png",
+
+"technologies": [],
+
+"tags": [
+"personal"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8f22-a91d-7004-b688-0a4a8b5b219f/screenshot_2026-06-04_014540.png",
+"https://cdn.hackclub.com/019e8f22-ab25-75ab-9878-720d988e43fb/screenshot_2026-06-04_014600.png",
+"https://cdn.hackclub.com/019e8f22-ad08-7cd7-a900-e8dfecfe1b8b/screenshot_2026-06-04_014626.png",
+"https://cdn.hackclub.com/019e8f22-ae98-72c2-9134-55d3cd249ed2/screenshot_2026-06-04_014712.png"
+]
+}
+,
+{
+  "id": "pet-care-guide",
+  "title": "Pet Care Guide",
+  "slug": "pet-care-guide",
+
+  "description": "Submission for Woof YSWS for Hack Club project\n\nNot a pet fan tbh but still made it as it was a program\n\nThis is a Submission for Woof YSWS for Hack Club project. It also has an interactive chat-bot like thing called WoofGPT which fetches dog-related information from Wikipedia using JavaScript.\n\nI used the following:\n\nHTML\nCSS\nJavaScript\nWikipedia API *special thanks to my IT textbook ;)\n\nThank you for your time,\n\nHere is the total Hack Time{Build time} ~5hr 29 mins",
+
+  "story": "",
+
+  "impact": [
+    "Submission for Woof YSWS at Hack Club",
+    "Built in approximately 5 hours 29 minutes"
+  ],
+
+  "date": "2026-01-01",
+
+  "status": "completed",
+
+  "type": "web-app",
+
+  "github": "https://github.com/hridhaan-s/dog-care-guide",
+
+  "live": "https://dog-care-guide.vercel.app",
+
+  "featured": false,
+
+  "coverImage": "https://cdn.hackclub.com/019e8f28-313d-762e-a6b0-bd3a0046535c/535484085-a26e56e0-0027-4ae4-ab0a-fb9415b1be1a.png",
+
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Wikipedia API"
+  ],
+
+  "tags": [],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019e8f28-3392-790b-a0da-6625283e267f/535336092-94e4710e-0dd0-48db-b508-6f3c04b662b1.png"
+  ]
+}
+,
+{
+"id": "bitbuzz-store",
+"title": "Bitbuzz Store",
+"slug": "bitbuzz-store",
+
+"description": "Made a site for to display stuff to display my brother's books he likes to write some books in his free time hence i made one place for all his books he has written, Although i m thinking of making a new version soon ig :D",
+
+"story": "",
+
+"impact": [
+"Created a dedicated platform for my brother's books"
+],
+
+"date": "2026-02-01",
+
+"status": "completed",
+
+"type": "web-app",
+
+"github": "https://github.com/hridhaan-s/Bitbuzz-Store",
+
+"live": "https://bitbuzz-store.vercel.app/",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019e8f32-032d-731b-b97e-18dcc9448eff/screenshot_2026-06-04_020327.png",
+
+"technologies": [],
+
+"tags": [
+"personal"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8f32-0552-788b-a739-54c238045837/screenshot_2026-06-04_020337.png",
+"https://cdn.hackclub.com/019e8f32-082e-7f3c-8fbe-96869b43ab6c/screenshot_2026-06-04_020352.png",
+"https://cdn.hackclub.com/019e8f32-0a5a-7ad5-889d-7345ba28d1ba/screenshot_2026-06-04_020402.png"
+]
+}
+,
+{
+  "id": "my-github-profile",
+  "title": "My GitHub Profile",
+  "slug": "my-github-profile",
+
+  "description": "The workshop behind the scrapbook. Open-source contributions, experiments, projects, and everything currently in progress.",
+
+  "story": "I spent a significant amount of time crafting my GitHub profile because it's where most of the actual building happens. Every repository, contribution, experiment, and project starts here before making its way into the scrapbook.",
+
+  "impact": [
+    "Primary hub for my code and open-source work",
+    "Home to personal projects and experiments",
+    "Tracks my development journey through repositories and contributions",
+    "Acts as the foundation behind most scrapbook entries"
+  ],
+
+  "date": "2026-06-04",
+
+  "status": "active",
+
+  "type": "git",
+
+  "github": "https://github.com/hridhaan-s",
+  "live": "https://github.com/hridhaan-s",
+
+  "featured": true,
+
+  "coverImage": "https://cdn.hackclub.com/019e8f35-7359-7928-b1fd-82805c45f4cc/screenshot_2026-06-04_020703.png",
+
+  "technologies": [
+    "Git",
+    "GitHub",
+    "Open Source"
+  ],
+
+  "tags": [
+    "git",
+    "open-source",
+    "portfolio",
+    "personal"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019e8f35-7359-7928-b1fd-82805c45f4cc/screenshot_2026-06-04_020703.png",
+    "https://cdn.hackclub.com/019e8f35-7542-779e-8e50-5e057ed9290d/screenshot_2026-06-04_020714.png",
+    "https://cdn.hackclub.com/019e8f35-771a-725c-bf15-d8079cd510aa/screenshot_2026-06-04_020727.png",
+    "https://cdn.hackclub.com/019e8f35-78e5-739b-999d-b1d16371473f/screenshot_2026-06-04_020736.png"
+  ]
+}
+,
+{
+  "id": "chanakya-ai",
+  "title": "Chanakya AI",
+  "slug": "chanakya-ai",
+
+  "description": "An AI Research & Fact-Checking Assistant built for BitBuzz, inspired by Chanakya's principles of strategy and wisdom. Designed to provide reliable answers while remaining highly efficient through multiple AI fallback systems.",
+
+  "story": "Built for BitBuzz as a practical AI assistant focused on reliability and accessibility. The biggest challenge wasn't creating another chatbot—it was making sure it remained available even when individual AI providers failed or ran out of credits. To solve this, I implemented multiple AI API fallbacks, allowing the system to switch providers seamlessly. The result is a fact-checking and research assistant that stays online, serves users for free, and remains surprisingly resilient.",
+
+  "impact": [
+    "Built for BitBuzz",
+    "Multiple AI provider fallback system",
+    "Designed to remain available even during API failures",
+    "Free for users through efficient resource management",
+    "Web search support integrated",
+    "Future plans include image generation and image search"
+  ],
+
+  "date": "2026-06-04",
+
+  "status": "active",
+
+  "type": "ai",
+
+  "github": "",
+  "live": "https://www.bitbuzz.club/chanakya-ai",
+
+  "featured": true,
+
+  "coverImage": "https://www.hridhaan.me/Screenshot%202026-05-09%20172557.png",
+
+  "technologies": [
+    "AI",
+    "JavaScript",
+    "APIs",
+    "Web Search"
+  ],
+
+  "tags": [
+    "ai",
+    "chatbot",
+    "fact-checking",
+    "web-search",
+    "bitbuzz",
+    "personal"
+  ],
+
+  "gallery": [
+    "https://www.hridhaan.me/Screenshot%202026-05-09%20172557.png"
+  ]
+}
+,
+{
+  "id": "delta-chatbot",
+  "title": "Delta",
+  "slug": "delta-chatbot",
+
+  "description": "A kid-friendly chatbot built using Code.org App Lab to make learning interactive and engaging.",
+
+  "story": "Built in Grade 8 for a school exhibition, Delta was one of my earliest AI-related projects. The goal was to create a simple and engaging chatbot that could interact with users and make learning more fun. Looking back, what makes this project special is that it was created before ChatGPT and modern AI assistants became widely known, making it one of my first experiments with conversational technology.",
+
+  "impact": [
+    "Built for a school exhibition",
+    "Created in Grade 8",
+    "One of my earliest AI-related projects",
+    "Built before ChatGPT became mainstream",
+    "Introduced students to conversational technology"
+  ],
+
+  "date": "2022-01-01",
+
+  "status": "archived",
+
+  "type": "ai",
+
+  "github": "",
+  "live": "https://studio.code.org/projects/applab/eFJQDYa32_soCLlC_LDQqevz9NOZDTksknNr-SSigYs",
+
+  "featured": false,
+
+  "coverImage": "https://www.hridhaan.me/assets/images/delta-chatbot.png",
+
+  "technologies": [
+    "Code.org App Lab",
+    "JavaScript",
+    "UI Design"
+  ],
+
+  "tags": [
+    "ai",
+    "education",
+    "school-project",
+    "archived",
+    "grade-8"
+  ],
+
+  "gallery": [
+    "https://www.hridhaan.me/assets/images/delta-chatbot.png",
+    "https://cdn.hackclub.com/019e8f40-ef00-764f-b158-323b802affac/screenshot_2026-06-04_022032.png",
+    "https://cdn.hackclub.com/019e8f40-f0ee-7a98-b69b-977791d866fa/screenshot_2026-06-04_022015.png",
+    "https://cdn.hackclub.com/019e8f40-f309-7abc-beea-612e3bba95d8/screenshot_2026-06-04_021953.png",
+    "https://cdn.hackclub.com/019e8f40-f4de-7e4b-8638-be08651a7137/screenshot_2026-06-04_021957.png",
+    "https://cdn.hackclub.com/019e8f40-f6ee-7095-8b4d-9abcfeced683/screenshot_2026-06-04_022008.png"
+  ]
+}
+,
+{
+  "id": "space-flappy-bird",
+  "title": "Space Flappy Bird",
+  "slug": "space-flappy-bird",
+
+  "description": "A space-themed version of the classic Flappy Bird built for fun using Code.org.",
+
+  "story": "One of my early game development experiments. I wanted to recreate the addictive gameplay of Flappy Bird while giving it a space-themed twist. The project was built primarily for fun and as an opportunity to learn more about game mechanics, collision systems, and player interaction.",
+
+  "impact": [
+    "Game development experiment",
+    "Built using Code.org",
+    "Learned game logic and collision detection",
+    "One of my earliest programming projects"
+  ],
+
+  "date": "2022-01-01",
+
+  "status": "archived",
+
+  "type": "game",
+
+  "github": "",
+  "live": "",
+
+  "featured": false,
+
+  "coverImage": "https://cdn.hackclub.com/019e8f4a-2eae-7e5e-a58d-dfcbf5434198/image.png",
+
+  "technologies": [
+    "Code.org",
+    "JavaScript",
+    "Game Development"
+  ],
+
+  "tags": [
+    "game",
+    "experiment",
+    "space",
+    "archived"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019e8f4a-2eae-7e5e-a58d-dfcbf5434198/image.png"
+  ]
+}
+,
+{
+  "id": "the-vote-master",
+  "title": "The Vote Master",
+  "slug": "the-vote-master",
+
+  "description": "A live voting platform where anyone can launch a poll in seconds. Votes remain open for one hour before results are permanently archived in the Hall of Fame.",
+
+  "story": "Built for a BitBuzz event, The Vote Master was designed to make live community voting simple, fast, and engaging. Users could create polls instantly, collect votes in real time, and automatically archive the final results. The project was deployed for a real event and successfully handled more than 200 votes, making it one of my first projects used by a larger audience.",
+
+  "impact": [
+    "Used during a live event",
+    "Collected over 200 votes",
+    "Real-world deployment",
+    "Automated Hall of Fame system",
+    "Designed for fast community engagement"
+  ],
+
+  "date": "2026-06-04",
+
+  "status": "active",
+
+  "type": "web-app",
+
+  "github": "",
+  "live": "https://www.bitbuzz.club/the-vote-master",
+
+  "featured": true,
+
+  "coverImage": "https://cdn.hackclub.com/019e8f4f-ab93-75ca-b767-4c8875a6894d/screenshot_2026-06-04_023344.png",
+
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Firebase"
+  ],
+
+  "tags": [
+    "web-app",
+    "community",
+    "event",
+    "voting",
+    "bitbuzz"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019e8f4f-ab93-75ca-b767-4c8875a6894d/screenshot_2026-06-04_023344.png",
+    "https://cdn.hackclub.com/019e8f4f-ae35-76af-b1ce-950f60bb5093/screenshot_2026-06-04_023358.png",
+    "https://cdn.hackclub.com/019e8f4f-b051-7b60-b0e9-ef34284c12f6/screenshot_2026-06-04_023414.png"
+  ]
+}
+,
+{
+  "id": "weather-intel",
+  "title": "Weather Intel",
+  "slug": "weather-intel",
+
+  "description": "A weather intelligence dashboard providing live weather conditions, AQI data, radar visualization, and safety analysis through multiple connected APIs.",
+
+  "story": "Weather Intel was one of my first projects built around external APIs. Originally developed as a feature for BitBuzz, it combined multiple weather and environmental data sources into a single dashboard. The project introduced me to working with real-time data, API integration, error handling, and building useful tools powered by live information rather than static content.",
+
+  "impact": [
+    "My first major API-powered project",
+    "Integrated multiple external APIs",
+    "Added as a feature to BitBuzz",
+    "Provides live weather and AQI data",
+    "Includes radar visualization and safety analysis"
+  ],
+
+  "date": "2026-06-04",
+
+  "status": "active",
+
+  "type": "web-app",
+
+  "github": "",
+  "live": "https://www.bitbuzz.club/weather",
+
+  "featured": true,
+
+  "coverImage": "https://cdn.hackclub.com/019e8f55-91a7-79ee-9650-356b55fcf3be/screenshot_2026-06-04_024050.png",
+
+  "technologies": [
+    "JavaScript",
+    "APIs",
+    "Weather APIs",
+    "AQI Data",
+    "Maps"
+  ],
+
+  "tags": [
+    "weather",
+    "api",
+    "dashboard",
+    "bitbuzz",
+    "real-time-data"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019e8f55-91a7-79ee-9650-356b55fcf3be/screenshot_2026-06-04_024050.png",
+    "https://cdn.hackclub.com/019e8f55-94b8-7b4d-b3bb-21cab4810e8d/screenshot_2026-06-04_024101.png",
+    "https://cdn.hackclub.com/019e8f55-96b0-7f6e-abad-34ce785001d5/screenshot_2026-06-04_024110.png",
+    "https://cdn.hackclub.com/019e8f55-991b-7781-a0ad-e160834daf9c/screenshot_2026-06-04_024128.png",
+    "https://cdn.hackclub.com/019e8f55-9b38-7f0a-afff-6c844c5d0373/screenshot_2026-06-04_024140.png"
+  ]
+}
+,
+{
+"id": "the-schoolwire-2026",
+"title": "The Summer SchoolWire 2026",
+"slug": "the-schoolwire-2026",
+
+"description": "A public summer challenge where students shared what they were building, reading, learning, and creating during their vacation.",
+
+"story": "The Summer SchoolWire 2026 was a community experiment built around a simple idea: make learning and building visible. Students could post what they were creating during their summer break, represent their school, and compete for prizes funded from grants I had previously earned. While the platform worked as intended, participation was lower than expected. Looking back, the biggest lesson wasn't technical—it was marketing. Building something people can use is only half the challenge; getting it in front of the right audience is equally important.",
+
+"impact": [
+"Community-building experiment",
+"Sponsored using my own grant money",
+"Supported student creators and builders",
+"Learned valuable lessons about distribution and marketing",
+"Successfully launched and operated as a public event"
+],
+
+"date": "2026-06-04",
+
+"status": "archived",
+
+"type": "community",
+
+"github": "",
+"live": "https://www.bitbuzz.club/the-school-wire-2026",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019e8f58-0fa8-72a3-8721-e5561df3d1f5/screenshot_2026-06-04_024418.png",
+
+"technologies": [
+"HTML",
+"CSS",
+"JavaScript",
+"Community Platform"
+],
+
+"tags": [
+"community",
+"event",
+"students",
+"bitbuzz",
+"experiment"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8f58-0fa8-72a3-8721-e5561df3d1f5/screenshot_2026-06-04_024418.png",
+"https://cdn.hackclub.com/019e8f58-0420-7147-86e9-6699da180607/screenshot_2026-06-04_024430.png",
+"https://cdn.hackclub.com/019e8f58-068c-7b00-a36f-8602f54cb0c9/screenshot_2026-06-04_024439.png",
+"https://cdn.hackclub.com/019e8f58-089f-7f5b-837d-b99a4e38e162/screenshot_2026-06-04_024454.png",
+"https://cdn.hackclub.com/019e8f58-0ac8-7dfd-abe9-d1a668fc1629/screenshot_2026-06-04_024508.png",
+"https://cdn.hackclub.com/019e8f58-0d2b-7672-b380-0fe3a269d8db/screenshot_2026-06-04_024513.png"
+]
+}
+
+
+]

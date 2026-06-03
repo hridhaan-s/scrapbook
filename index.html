@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Everything I've ever built. A black-and-white archive of projects, experiments, failures, and lessons by Hridhaan Sahay.">
+    <link rel="icon" type="image/png" href="https://cdn.hackclub.com/019e8ecb-5b36-7aa2-b8f2-c215ef4de2dd/image.png">
+<link rel="shortcut icon" href="https://cdn.hackclub.com/019e8ecb-5b36-7aa2-b8f2-c215ef4de2dd/image.png">
+<link rel="apple-touch-icon" href="https://cdn.hackclub.com/019e8ecb-5b36-7aa2-b8f2-c215ef4de2dd/image.png">
+<title>The Scrapbook — Hridhaan Sahay</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div id="loader">
+
+    <div class="loader-inner">
+
+        <div class="loader-ring"></div>
+
+        <p>
+            LOADING THE SCRAPBOOK....
+        </p>
+
+    </div>
+
+</div>
+
+    <div class="page">
+
+        <header class="topbar">
+            <div class="logo">
+                Hridhaan's Project Scrapbook
+            </div>
+            <nav>
+                <a href="index.html">Index</a>
+                <a href="colophon.html">Colophon</a>
+                <a href="https://github.com/hridhaan-s/" target="_blank">My GitHub</a>
+                <a href="https://www.linkedin.com/in/hridhaan-sahay/" target="_blank">My LinkedIn</a>
+            
+            </nav>
+        </header>
+
+        <section class="hero">
+            <div class="hero-left">
+                <h1>
+                    Everything I've<br>
+                    <span>ever built.</span>
+                </h1>
+
+                <div class="hero-stats">
+                    <div class="stat" id="projectCount">
+                        0 PROJECTS
+                    </div>
+                    <div class="stat" id="techCount">
+                        0 TECHNOLOGIES
+                    </div>
+                </div>
+            </div> 
+        </section>
+
+        <div class="hero-divider"></div>
+
+        <section class="filters">
+
+            <input 
+                type="text" 
+                id="searchInput" 
+                placeholder="Search title or description..."
+            >
+
+            <select id="sortSelect">
+                <option value="newest">Sort · Newest first</option>
+                <option value="oldest">Sort · Oldest first</option>
+            </select>
+
+            <select id="typeSelect">
+                <option value="all">Type · all</option>
+            </select>
+
+            <select id="langSelect">
+                <option value="all">Lang · all</option>
+            </select>
+
+            <select id="tagSelect">
+                <option value="all">Tag · all</option>
+            </select>
+
+        </section>
+
+        <section id="projects" class="project-grid">
+            </section>
+
+    </div>
+
+    <script src="script.js"></script>
+<footer class="site-footer">
+
+    <div class="footer-top">
+
+        <div class="footer-brand">
+            THE SCRAPBOOK
+        </div>
+
+        <div class="footer-links">
+
+            <a href="https://hridhaan.me">
+                Main Site
+            </a>
+
+            <a href="https://github.com/hridhaan-s">
+                GitHub
+            </a>
+
+            <a href="https://scrapbook.hridhaan.me">
+                Scrapbook
+            </a>
+
+            <a href="https://astro.hridhaan.me">
+                Astrophotography
+            </a>
+
+            <a href="https://www.linkedin.com/in/hridhaan-sahay">
+                LinkedIn
+            </a>
+
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+
+        <span>
+            © 2026 Hridhaan Sahay. All rights reserved.
+            (Made during my Summer Vacation of 2026)
+        </span>
+
+        <span>
+            ALL ENTRIES ARE HANDMADE BY ME :D
+        </span>
+
+    </div>
+
+</footer>
+
+<script src="https://unpkg.com/lenis@1.1.16/dist/lenis.min.js"></script>
+
+<script>
+const lenis = new Lenis({
+    duration: 1.2,
+    smoothWheel: true
+});
+
+function raf(time){
+    lenis.raf(time);
+    requestAnimationFrame(raf);
+}
+
+requestAnimationFrame(raf);
+</script>
+
+
+
+</body>
+</html>
