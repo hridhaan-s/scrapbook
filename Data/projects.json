@@ -1243,3 +1243,55 @@
 
 
 ]
+
+
+{
+  "id": "hackatyper",
+  "title": "HackaTyper",
+  "slug": "hackatyper",
+
+  "description": "An interactive typing speed tester built custom for the global Hack Club community to test and improve their typing metrics.",
+
+  "story": "Built for the global Hack Club community, HackaTyper is an interactive typing speed tester designed to give builders a fun, engaging way to track and test their typing metrics. It brings a clean, developer-focused aesthetic to the classic typing test, making it a perfect fit for the Hack Club ecosystem.",
+
+  "impact": [
+    "Built natively for the global Hack Club community",
+    "Provides real-time interactive typing metrics and analytics",
+    "Designed with a sleek, hacker-friendly user interface"
+  ],
+
+  "date": "2026-06-11",
+
+  "status": "active",
+
+  "type": "web-app",
+
+  "github": "",
+  "live": "https://hackatyper.vercel.app/",
+
+  "featured": true,
+
+  "coverImage": "https://cdn.hackclub.com/019eb68d-8dbc-724e-b23e-45b453bc53f3/screenshot_2026-06-11_170746.png",
+
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+
+  "tags": [
+    "web-app",
+    "tool",
+    "community",
+    "learning",
+    "personal"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019eb68d-8dbc-724e-b23e-45b453bc53f3/screenshot_2026-06-11_170746.png",
+    "https://cdn.hackclub.com/019eb68d-8f53-7b15-8b31-5247b395136e/screenshot_2026-06-11_172810.png",
+    "https://cdn.hackclub.com/019eb68d-90d7-7613-a63e-9cd20cdbc505/screenshot_2026-06-11_172858.png",
+    "https://cdn.hackclub.com/019eb68d-923e-7a2f-a26d-cfe1c3cabbed/screenshot_2026-06-11_172905.png",
+    "https://cdn.hackclub.com/019eb68d-943a-7991-9fe0-c5eda35dbdca/screenshot_2026-06-11_172914.png"
+  ]
+}
