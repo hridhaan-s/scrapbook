@@ -174,6 +174,64 @@
 ]
 }
 ,
+    {
+"id": "flagit-guardian",
+"title": "Flag It Guardian for Hack Club",
+"slug": "flagit-guardian",
+
+"description": "A Slack bot deployed on Hack Club Nest that detects fraud-related discussions and guides users to report scams through Flag It.",
+
+"story": "Flag It Guardian was built as an extension of Flag It, a cyber safety initiative by BitBuzz focused on helping people report scams, fraud, phishing, and online threats. While building Flag It, I realized that many victims never actively search for reporting resources, even after discussing scams publicly. To solve this, I built Flag It Guardian for the Hack Club Slack workspace. The bot automatically detects fraud-related discussions and provides users with a direct path to report incidents through Flag It. The project was deployed on Hack Club Nest and configured to run 24/7 using PM2, making it one of my first fully deployed cloud-hosted automation projects. Beyond cybersecurity awareness, the project taught me how to work with Slack APIs, cloud infrastructure, deployment pipelines, environment management, and production services.",
+
+"impact": [
+"Deployed to Hack Club Nest",
+"Integrated into Hack Club Slack",
+"Provides 24/7 scam awareness messaging",
+"Automatically detects fraud-related discussions",
+"Directs users to Flag It reporting platform",
+"Built as an extension of the Flag It cyber safety initiative"
+],
+
+"date": "2026-06-14",
+
+"status": "active",
+
+"type": "cybersecurity",
+
+"github": "https://github.com/hridhaan-s/flagit-guardian",
+
+"live": "https://www.bitbuzz.club/flag-it",
+
+"featured": true,
+
+"coverImage": "https://cdn.hackclub.com/019ec2d3-5846-7467-bcea-b40e69efced8/screenshot_2026-06-14_015453.png",
+
+"technologies": [
+"Node.js",
+"JavaScript",
+"Slack Bolt",
+"Slack API",
+"PM2",
+"Hack Club Nest",
+"GitHub"
+],
+
+"tags": [
+"cybersecurity",
+"social-impact",
+"hack-club",
+"slack-bot",
+"community",
+"bitbuzz"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019ec2d3-5846-7467-bcea-b40e69efced8/screenshot_2026-06-14_015453.png",
+"https://cdn.hackclub.com/019ec2d3-5a3f-70c1-a5ef-36d3df494075/screenshot_2026-06-14_021105.png",
+"https://cdn.hackclub.com/019ec2d3-5bbd-75f9-814e-1749599b2c5d/screenshot_2026-06-14_022923.png"
+]
+}
+,
 {
 "id": "opportunity-feed",
 "title": "Opportunity Feed",
