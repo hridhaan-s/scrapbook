@@ -42,13 +42,9 @@ app/
 Each project is stored as an individual Markdown/MDX file with metadata, screenshots, links, and notes.
 
 ## Tech Stack
-
-* Next.js
-* TypeScript
-* Tailwind CSS
-* MDX
-* GitHub
-* Vercel
+-HTML
+-CSS
+-JS
 
 ## Why This Exists
 
