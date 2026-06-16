@@ -286,6 +286,47 @@
 ]
 }
 ,
+    {
+  "id": "sketchyy",
+  "title": "Sketchyy",
+  "slug": "sketchyy",
+  "description": "A dynamic scam shield and utility platform for travelers, enabling users to track live local crime/scam data, view real-time weather maps, and navigate safely with an interactive scroll-reactive compass.",
+  "story": "Sketchyy was built to solve a real-world problem for travelers: walking into unfamiliar places completely blind to local scams and high-crime areas. Acting as a digital 'scam shield,' it aggregates safety alerts, local weather data, and live map views into one sober, highly accessible dashboard. To make the interface feel alive and premium, I engineered a minimalist, custom CSS compass widget that spins dynamically as the user scrolls down the page, acting as an anchor for fellow travelers.",
+  "impact": [
+    "Approved for the Hack Club Off-Track Program",
+    "Secured a $60 travel grant from Hack Club for a real-world trip to Mussoorie",
+    "Tracked 5.15 hours of highly focused development time through Hackatime",
+    "Integrated live weather, map systems, and local scam prevention databases",
+    "Designed a custom, hardware-independent scroll-responsive UI compass widget"
+  ],
+  "date": "2026-06-17",
+  "status": "completed",
+  "type": "software",
+  "github": "https://github.com/hridhaan-s/scam-shield-Sketchyy-",
+  "live": "https://sketchyy-app.vercel.app/",
+  "featured": true,
+  "coverImage": "https://cdn.hackclub.com/019ed1b3-426f-730f-aa91-d07d2948877e/screenshot_2026-06-17_000000.png",
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "APIs",
+    "Cyber Security",
+    "Geolocation Mapping"
+  ],
+  "tags": [
+    "cybersecurity",
+    "travel",
+    "open-source",
+    "hack-club",
+    "social-impact",
+    "tool"
+  ],
+  "gallery": [
+    "https://cdn.hackclub.com/019ed1b3-426f-730f-aa91-d07d2948877e/screenshot_2026-06-17_000000.png"
+  ]
+}
+    ,
   {
   "id": "mac-book-style-virtual-pc",
   "title": "Mac-Book Style Virtual PC",
