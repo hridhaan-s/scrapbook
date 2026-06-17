@@ -531,6 +531,60 @@
 ]
 }
 ,
+    {
+  "id": "keeb-rewards-store",
+  "title": "KEEB Rewards Store",
+  "slug": "keeb-rewards-store",
+
+  "description": "The frontend shop interface for Hack Club's KEEB hardware-keyboard YSWS program, built to showcase and distribute custom keyboard rewards.",
+
+  "story": "I contributed to Hack Club's ecosystem by building the frontend for the KEEB Rewards Store, a dedicated shop for the custom hardware-keyboard YSWS (You Ship We Ship) program. My work focused on creating an intuitive, clean interface for participants to browse and claim their keyboard gear. This project was built as an open-source contribution under the Fix Hack Club initiative, which allowed me to dive deeper into component-driven development and fine-tune the user experience for the community.",
+
+  "impact": [
+    "Built the frontend interface for a major Hack Club hardware program",
+    "Received a $40 grant as part of the Fix Hack Club initiative",
+    "Contributed directly to the open-source Hack Club ecosystem"
+  ],
+
+  "date": "2026-06-17",
+
+  "status": "completed",
+
+  "type": "open-source",
+
+  "github": "https://github.com/hridhaan-s",
+  "live": "",
+
+  "featured": false,
+
+  "coverImage": "https://cdn.hackclub.com/019ed2f2-3c19-7a7b-9e30-202c6cdc1d39/_r6igml0.png",
+
+  "technologies": [
+    "Astro",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Git",
+    "VS Code"
+  ],
+
+  "tags": [
+    "open-source",
+    "frontend",
+    "hack-club",
+    "hardware",
+    "ysws-program"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019ed2f2-3c19-7a7b-9e30-202c6cdc1d39/_r6igml0.png",
+    "https://cdn.hackclub.com/019ed2f2-3e93-70f2-894f-351bd22f97e4/_rcs7906.png",
+    "https://cdn.hackclub.com/019ed2f2-40e5-7eab-86f5-9e37a122d446/_r22udwl.png",
+    "https://cdn.hackclub.com/019ed2f2-434b-7b4e-8a1a-4a57b4a86c0c/_rk9mhzb.png",
+    "https://cdn.hackclub.com/019ed2f2-45d7-714c-a2ac-dee49118e3c8/_rergy82.png"
+  ]
+}
+    ,
 {
 "id": "decision",
 "title": "Decision",
