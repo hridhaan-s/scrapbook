@@ -327,6 +327,71 @@
   ]
 }
     ,
+    {
+"id": "ciphercat",
+"title": "CipherCat",
+"slug": "ciphercat",
+
+"description": "A Slack bot built for Hack Club that transforms messages into Morse code, decodes hidden transmissions, and delivers secret messages through CipherMail. Designed as a fun community utility with a cat-themed personality and thread-based interactions.",
+
+"story": "CipherCat started as a small experiment to learn how Slack bots actually work. Rather than building another generic utility bot, I wanted to create something playful that people would genuinely use. Built using Slack Bolt and Socket Mode, CipherCat responds to mentions, translates messages to and from Morse code, and can even deliver custom messages directly to another user's DMs through CipherMail. The project was designed, developed, and deployed in a single afternoon, making it one of my fastest shipped products. Beyond the bot itself, CipherCat taught me Slack APIs, event-driven systems, OAuth scopes, Socket Mode, bot permissions, and production debugging.",
+
+"impact": [
+"Built and deployed my first Slack bot",
+"Integrated with the Hack Club Slack workspace",
+"Supports Morse code encoding and decoding",
+"Features CipherMail for user-to-user message delivery",
+"Uses Slack Bolt and Socket Mode for real-time communication",
+"Introduced a custom mascot-driven user experience",
+"Shipped from idea to production in a single day"
+],
+
+"date": "2026-06-25",
+
+"status": "active",
+
+"type": "bot",
+
+"github": "",
+"live": "",
+
+"featured": true,
+
+"coverImage": "https://cdn.hackclub.com/019efe71-6eee-7123-a523-a4468c9441b4/screenshot_2026-06-25_162538.png",
+
+"technologies": [
+"JavaScript",
+"Node.js",
+"Slack Bolt",
+"Slack API",
+"Socket Mode",
+"OAuth",
+"Event Driven Architecture"
+],
+
+"tags": [
+"bot",
+"slack",
+"hack-club",
+"javascript",
+"nodejs",
+"automation",
+"community",
+"tooling",
+"ciphercat"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019efe71-7124-7c8b-9411-5aaccec4b3b5/screenshot_2026-06-25_162819.png",
+"https://cdn.hackclub.com/019efe71-7356-7192-b083-53af31bbf6bd/screenshot_2026-06-25_162919.png",
+"https://cdn.hackclub.com/019efe71-756b-7caf-8b03-3e7492f9cc50/screenshot_2026-06-25_162959.png",
+"https://cdn.hackclub.com/019efe71-77c0-7ee1-a300-aa053440d918/screenshot_2026-06-25_163008.png",
+"https://cdn.hackclub.com/019efe71-7a1d-72db-8f8f-15a6910afe24/screenshot_2026-06-25_163059.png",
+"https://cdn.hackclub.com/019efe71-7c32-7ab2-850e-6050a8f416ba/screenshot_2026-06-25_163049.png"
+]
+}
+
+    ,
   {
   "id": "mac-book-style-virtual-pc",
   "title": "Mac-Book Style Virtual PC",
