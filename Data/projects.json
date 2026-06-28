@@ -1309,6 +1309,69 @@
   ]
 }
 ,
+    {
+  "id": "bookbridge-class-12-it-project",
+  "title": "BookBridge",
+  "slug": "bookbridge-class-12-it-project",
+
+  "description": "A Java Swing and MySQL powered desktop application developed as my CBSE Class 12 Information Technology final project. BookBridge modernizes library management by providing an intuitive interface for managing books, users, and database operations while showcasing software engineering principles through a professionally documented project.",
+
+  "story": "BookBridge was built as my Class 12 Information Technology final project, but I wanted it to go beyond the typical CRUD application. Instead of simply meeting the syllabus requirements, I treated it like a miniature software engineering project. I designed a clean Java Swing interface, integrated a MySQL database through JDBC, documented the complete development lifecycle, and even published the project as open source on GitHub. Along the way I learned about desktop application architecture, relational databases, object-oriented programming, Git, version control, software documentation, and writing professional technical reports. By the end, the project became much more than a school submission—it became one of my first fully documented software engineering projects.",
+
+  "impact": [
+    "Developed a complete Java Swing desktop application",
+    "Integrated MySQL with JDBC for persistent storage",
+    "Designed and documented a complete software engineering workflow",
+    "Published the project as open source on GitHub",
+    "Submitted as my CBSE Class XII Information Technology Final Project"
+  ],
+
+  "date": "2026-06-29",
+
+  "status": "completed",
+
+  "type": "school-project",
+
+  "github": "https://github.com/hridhaan-s/BookBridge",
+
+  "live": "https://user-cdn.hackclub-assets.com/019f0fe4-eb67-7b17-8c3c-e7756f2c3d11/Project%20File%20Class%2012%20IT%20Final%20.pdf",
+
+  "playable": "https://user-cdn.hackclub-assets.com/019f0fe4-eb67-7b17-8c3c-e7756f2c3d11/Project%20File%20Class%2012%20IT%20Final%20.pdf",
+
+  "featured": false,
+
+  "coverImage": "https://cdn.hackclub.com/019f0feb-342d-7bfe-acbb-e3208cb6b61c/screenshot_2026-06-26_164649.png",
+
+  "technologies": [
+    "Java",
+    "Swing",
+    "JDBC",
+    "MySQL",
+    "Apache NetBeans",
+    "Git",
+    "GitHub"
+  ],
+
+  "tags": [
+    "java",
+    "desktop",
+    "mysql",
+    "jdbc",
+    "cbse",
+    "school-project",
+    "open-source",
+    "library-management",
+    "bookbridge"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019f0feb-342d-7bfe-acbb-e3208cb6b61c/screenshot_2026-06-26_164649.png",
+    "https://cdn.hackclub.com/019f0feb-3793-7db4-a06d-e6ea3b270c49/screenshot_2026-06-26_164551.png",
+    "https://cdn.hackclub.com/019f0feb-3a8a-78be-8c1c-9f49e3ab31f6/screenshot_2026-06-26_160610.png",
+    "https://cdn.hackclub.com/019f0feb-3dbb-77da-8e20-02682168a66b/screenshot_2026-06-26_155133.png"
+  ]
+}
+    ,
 {
   "id": "weather-intel",
   "title": "Weather Intel",
