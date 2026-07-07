@@ -218,14 +218,8 @@
   {
     "id": "flagit-guardian",
     "title": "Flag It Guardian for Hack Club",
-    "slug": "flagit-guardian"
-    ,
-    {
-"id": "flagit-guardian",
-"title": "Flag It Guardian for Hack Club",
-"slug": "flagit-guardian",
-
-"description": "A Slack bot deployed on Hack Club Nest that detects fraud-related discussions and guides users to report scams through Flag It.",
+    "slug": "flagit-guardian",
+    "description": "A Slack bot deployed on Hack Club Nest that detects fraud-related discussions and guides users to report scams through Flag It.",
 
 "story": "Flag It Guardian was built as an extension of Flag It, a cyber safety initiative by BitBuzz focused on helping people report scams, fraud, phishing, and online threats. While building Flag It, I realized that many victims never actively search for reporting resources, even after discussing scams publicly. To solve this, I built Flag It Guardian for the Hack Club Slack workspace. The bot automatically detects fraud-related discussions and provides users with a direct path to report incidents through Flag It. The project was deployed on Hack Club Nest and configured to run 24/7 using PM2, making it one of my first fully deployed cloud-hosted automation projects. Beyond cybersecurity awareness, the project taught me how to work with Slack APIs, cloud infrastructure, deployment pipelines, environment management, and production services.",
 
