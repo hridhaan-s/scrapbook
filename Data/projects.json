@@ -173,36 +173,52 @@
 "https://cdn.hackclub.com/019e8f5f-684d-7ecd-b915-c20fe383dd17/screenshot_2026-06-04_024621.png"
 ]
 }
-,
-    {
-  "id": "xerxes",
-  "title": "Xerxes",
-  "slug": "xerxes",
-  "description": "An experimental, high-precision workspace assistant powered by real-time client-side Computer Vision to monitor posture, proximity, and focus metrics seamlessly.",
-  "story": "Xerxes was built to tackle the real-world challenge of long hours at the desk. I wanted to create an interactive tool that keeps users locked into their deep-work intervals while actively helping them maintain healthy habits. What makes Xerxes special is its architecture: it leverages advanced MediaPipe face-mesh tracking to map a hyper-dense geometric wireframe onto the user's facial features right inside the browser. It tracks distance and posture strictly, using non-intrusive sound cues and cross-tab browser alerts to keep users aligned. Building this project taught me how to handle intensive, real-time edge calculations, bridge scripts between tabs via background communication channels, and design simple, clean, distraction-free user interfaces.",
-  "impact": [
-    "Processes all tracking data entirely on the client-side for 100% data privacy",
-    "Uses high-density face-mesh wireframes for accurate physical calibration",
-    "Integrates a dual-action tracking setup with a built-in interval workspace timer",
-    "Deploys automated cross-tab notifications via custom Chrome extension architecture",
-    "Features automatic audio-cue chirps for swift postural realignment"
-  ],
-  "date": "2026-07-08",
-  "status": "active",
-  "type": "flagship",
-  "github": "",
-  "live": "https://xerxes.bitbuzz.app/",
-  "featured": true,
-  "coverImage": "https://cdn.hackclub.com/019f3e2d-f165-79e8-b7e2-eef7ed5343bd/screenshot_2026-07-08_013241.png",
-  "technologies": [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "MediaPipe",
-    "Computer Vision",
-    "Chrome Extensions API"
-  ]
-}
+,{
+    "id": "xerxes",
+    "title": "Xerxes",
+    "slug": "xerxes",
+    "description": "An experimental, high-precision workspace assistant powered by real-time client-side Computer Vision to monitor posture, proximity, and focus metrics seamlessly.",
+    "story": "Xerxes was built to tackle the real-world challenge of long hours at the desk. I wanted to create an interactive tool that keeps users locked into their deep-work intervals while actively helping them maintain healthy habits. What makes Xerxes special is its architecture: it leverages advanced MediaPipe face-mesh tracking to map a hyper-dense geometric wireframe onto the user's facial features right inside the browser. It tracks distance and posture strictly, using non-intrusive sound cues and cross-tab browser alerts to keep users aligned. Building this project taught me how to handle intensive, real-time edge calculations, bridge scripts between tabs via background communication channels, and design simple, clean, distraction-free user interfaces.",
+    "impact": [
+      "Processes all tracking data entirely on the client-side for 100% data privacy",
+      "Uses high-density face-mesh wireframes for accurate physical calibration",
+      "Integrates a dual-action tracking setup with a built-in interval workspace timer",
+      "Deploys automated cross-tab notifications via custom Chrome extension architecture",
+      "Features automatic audio-cue chirps for swift postural realignment"
+    ],
+    "date": "2026-07-08",
+    "status": "active",
+    "type": "flagship",
+    "github": "https://github.com/hridhaan-s/Xerxes-Dashboard",
+    "live": "https://xerxes.bitbuzz.app/",
+    "featured": true,
+    "coverImage": "https://cdn.hackclub.com/019f3e2d-f165-79e8-b7e2-eef7ed5343bd/screenshot_2026-07-08_013241.png",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MediaPipe",
+      "Computer Vision",
+      "Chrome Extensions API"
+    ],
+    "tags": [
+      "productivity",
+      "computer-vision",
+      "chrome-extension",
+      "developer-tools"
+    ],
+    "gallery": [
+      "https://cdn.hackclub.com/019f3e2d-f165-79e8-b7e2-eef7ed5343bd/screenshot_2026-07-08_013241.png",
+      "https://cdn.hackclub.com/019f3e2d-f402-7ddd-b37e-303175b81691/screenshot_2026-07-08_013250.png",
+      "https://cdn.hackclub.com/019f3e2d-f663-7070-be3e-7d6fa69045de/screenshot_2026-07-08_013257.png",
+      "https://cdn.hackclub.com/019f3e2c-6a3c-7ced-8f2a-f5e6d2a6c022/screenshot_2026-07-08_011844.png",
+      "https://cdn.hackclub.com/019f3e2c-6d56-7d20-b116-d5fbedd01f2b/screenshot_2026-07-08_012033.png"
+    ]
+  },
+  {
+    "id": "flagit-guardian",
+    "title": "Flag It Guardian for Hack Club",
+    "slug": "flagit-guardian"
     ,
     {
 "id": "flagit-guardian",
