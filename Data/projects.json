@@ -1483,7 +1483,46 @@
 "Learned valuable lessons about distribution and marketing",
 "Successfully launched and operated as a public event"
 ],
-    {
+
+"date": "2026-06-04",
+
+"status": "archived",
+
+"type": "community",
+
+"github": "",
+"live": "https://www.bitbuzz.club/the-school-wire-2026",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019e8f58-0fa8-72a3-8721-e5561df3d1f5/screenshot_2026-06-04_024418.png",
+
+"technologies": [
+"HTML",
+"CSS",
+"JavaScript",
+"Community Platform"
+],
+
+"tags": [
+"community",
+"event",
+"students",
+"bitbuzz",
+"experiment"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019e8f58-0fa8-72a3-8721-e5561df3d1f5/screenshot_2026-06-04_024418.png",
+"https://cdn.hackclub.com/019e8f58-0420-7147-86e9-6699da180607/screenshot_2026-06-04_024430.png",
+"https://cdn.hackclub.com/019e8f58-068c-7b00-a36f-8602f54cb0c9/screenshot_2026-06-04_024439.png",
+"https://cdn.hackclub.com/019e8f58-089f-7f5b-837d-b99a4e38e162/screenshot_2026-06-04_024454.png",
+"https://cdn.hackclub.com/019e8f58-0ac8-7dfd-abe9-d1a668fc1629/screenshot_2026-06-04_024508.png",
+"https://cdn.hackclub.com/019e8f58-0d2b-7672-b380-0fe3a269d8db/screenshot_2026-06-04_024513.png"
+]
+}
+,
+     {
   "id": "twilara-mail",
   "title": "Twilara Mail",
   "slug": "twilara-mail",
@@ -1543,45 +1582,6 @@
     "https://cdn.hackclub.com/019f42d5-cd24-75bb-bdc4-4e1d75a86d65/screenshot_2026-07-08_222747.png"
   ]
 },
-
-"date": "2026-06-04",
-
-"status": "archived",
-
-"type": "community",
-
-"github": "",
-"live": "https://www.bitbuzz.club/the-school-wire-2026",
-
-"featured": false,
-
-"coverImage": "https://cdn.hackclub.com/019e8f58-0fa8-72a3-8721-e5561df3d1f5/screenshot_2026-06-04_024418.png",
-
-"technologies": [
-"HTML",
-"CSS",
-"JavaScript",
-"Community Platform"
-],
-
-"tags": [
-"community",
-"event",
-"students",
-"bitbuzz",
-"experiment"
-],
-
-"gallery": [
-"https://cdn.hackclub.com/019e8f58-0fa8-72a3-8721-e5561df3d1f5/screenshot_2026-06-04_024418.png",
-"https://cdn.hackclub.com/019e8f58-0420-7147-86e9-6699da180607/screenshot_2026-06-04_024430.png",
-"https://cdn.hackclub.com/019e8f58-068c-7b00-a36f-8602f54cb0c9/screenshot_2026-06-04_024439.png",
-"https://cdn.hackclub.com/019e8f58-089f-7f5b-837d-b99a4e38e162/screenshot_2026-06-04_024454.png",
-"https://cdn.hackclub.com/019e8f58-0ac8-7dfd-abe9-d1a668fc1629/screenshot_2026-06-04_024508.png",
-"https://cdn.hackclub.com/019e8f58-0d2b-7672-b380-0fe3a269d8db/screenshot_2026-06-04_024513.png"
-]
-}
-,
     {
 "id": "bitbuzz-store-v2",
 "title": "The BitBuzz Store V2",
