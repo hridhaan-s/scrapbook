@@ -1483,6 +1483,66 @@
 "Learned valuable lessons about distribution and marketing",
 "Successfully launched and operated as a public event"
 ],
+    {
+  "id": "twilara-mail",
+  "title": "Twilara Mail",
+  "slug": "twilara-mail",
+
+  "description": "A lightweight temporary mailbox system built for a school AI workshop that enables hundreds of students to receive GitHub verification emails without needing access to their personal inboxes or phones. Built using Cloudflare Email Routing, Google Apps Script, HTML, CSS and JavaScript.",
+
+  "story": "While preparing a school AI workshop, I ran into a practical problem: students were not allowed to bring phones into school, making GitHub's email verification process nearly impossible because many accounts use two-factor authentication. Instead of asking everyone to disable security features or create temporary accounts, I designed Twilara Mail. Using Cloudflare's catch-all email routing, every @twilara.lol email address forwards into a single mailbox. I then built a custom web interface that lets students search only for their own temporary email address and instantly view the complete verification email—including formatted HTML, links and verification codes—without ever opening Gmail. The project was designed, built and deployed in a single day and allowed the workshop to scale without requiring students to use their personal devices.",
+
+  "impact": [
+    "Solved a real operational problem for a live school workshop",
+    "Supports virtually unlimited temporary email aliases using Cloudflare Email Routing",
+    "Allows students without phones to complete GitHub verification",
+    "Built a custom searchable mailbox interface from scratch",
+    "Displays complete HTML emails including links, formatting and verification codes",
+    "Designed for temporary deployment with simple cleanup after the event"
+  ],
+
+  "date": "2026-07-08",
+
+  "status": "active",
+
+  "type": "developer-tool",
+
+  "github": "https://github.com/hridhaan-s/twilara-mail",
+
+  "live": "https://mail.twilara.lol",
+
+  "featured": true,
+
+  "coverImage": "https://cdn.hackclub.com/019f42d5-c749-762d-8f2f-585c0573f385/screenshot_2026-07-08_222701.png",
+
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Google Apps Script",
+    "Cloudflare Email Routing",
+    "Vercel",
+    "Gmail API"
+  ],
+
+  "tags": [
+    "tool",
+    "email",
+    "automation",
+    "cloudflare",
+    "google-apps-script",
+    "developer-tools",
+    "hack-club",
+    "workshop",
+    "productivity"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019f42d5-c95f-777d-a171-3ac5f0d7d72e/screenshot_2026-07-08_222751.png",
+    "https://cdn.hackclub.com/019f42d5-cb4e-75d6-9980-85d090371309/screenshot_2026-07-08_222801.png",
+    "https://cdn.hackclub.com/019f42d5-cd24-75bb-bdc4-4e1d75a86d65/screenshot_2026-07-08_222747.png"
+  ]
+},
 
 "date": "2026-06-04",
 
