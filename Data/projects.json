@@ -368,6 +368,64 @@
 }
     ,
     {
+"id": "3am-ysws",
+"title": "3AM YSWS",
+"slug": "3am-ysws",
+
+"description": "An official Hack Club You Ship We Ship program and event site built around a dark-themed challenge where teens submitted projects at 3AM and earned rewards for shipping creative work late into the night.",
+
+"story": "3AM YSWS was an official Hack Club program I organized around a simple but powerful idea: give teens a dark-themed build challenge that felt exciting, unusual, and rewarding. The site and program encouraged participants to create and submit projects during the 3AM theme, turning the experience into something more playful and motivating than a normal submission page. Beyond just building the website, I helped shape the event itself so it felt like a real program with a clear identity, a strong theme, and a proper reward-driven structure. It was one of those projects where the website and the event were tightly connected, and that made the whole thing feel much more alive.",
+
+"impact": [
+"Official Hack Club YSWS program and event site",
+"Organized a themed build challenge for teens",
+"Centered around dark-theme project submissions",
+"Helped motivate participants through rewards",
+"Combined program design with site execution"
+],
+
+"date": "2026-08-31",
+
+"status": "completed",
+
+"type": "ysws",
+
+"github": "https://github.com/hackclub/3am-ysws",
+
+"live": "https://3am.hackclub.com",
+
+"featured": false,
+
+"coverImage": "https://cdn.hackclub.com/019fbc21-d1b1-7a17-b333-b8a0a17e9e50/screenshot_2026-08-01_123025.png",
+
+"technologies": [
+"HTML",
+"CSS",
+"JavaScript",
+"Program Design",
+"Community Building"
+],
+
+"tags": [
+"ysws",
+"hack-club",
+"community",
+"event",
+"dark-theme"
+],
+
+"gallery": [
+"https://cdn.hackclub.com/019fbc21-d436-7447-8125-bc78be9b3d2d/screenshot_2026-08-01_123042.png",
+"https://cdn.hackclub.com/019fbc21-d691-7431-8797-509089d2da21/screenshot_2026-08-01_123053.png",
+"https://cdn.hackclub.com/019fbc21-d909-74f5-a808-9b3d105bb96d/screenshot_2026-08-01_123100.png",
+"https://cdn.hackclub.com/019fbc21-db9e-73ab-87d2-6871d9adf635/screenshot_2026-08-01_123120.png",
+"https://cdn.hackclub.com/019fbc21-de70-7a72-9cca-70ff4f658592/screenshot_2026-08-01_123138.png",
+"https://cdn.hackclub.com/019fbc21-e0ad-7384-9f82-ee171dc4beb8/screenshot_2026-08-01_123152.png",
+"https://cdn.hackclub.com/019fbc21-e355-7029-a12d-91abefc3e7be/screenshot_2026-08-01_123113.png"
+]
+}
+    ,
+    {
 "id": "ciphercat",
 "title": "CipherCat",
 "slug": "ciphercat",
