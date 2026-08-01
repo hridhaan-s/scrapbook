@@ -1012,6 +1012,58 @@
 ]
 }
 ,
+  
+{
+  "id": "invoice-generator",
+  "title": "Invoice Generator",
+  "slug": "invoice-generator",
+
+  "description": "A streamlined invoice generation tool built to create professional invoices for contractual work with HQ staff, combining a clean workflow with polished output that makes billing faster, more reliable, and presentation-ready in seconds.",
+
+  "story": "Invoice Generator was built to solve a problem I kept running into during my contractual work. I needed a quick and professional way to generate invoices for HQ staff without repeatedly editing templates or using bulky accounting software. Instead of relying on third-party tools, I built a lightweight web application tailored exactly to my workflow. The result is a simple, fast, and reliable invoice generator that produces clean, professional invoices whenever I need them. More than just another utility project, it became a tool I actively use, reinforcing one of my favorite ideas: the best software is often the software you build to solve your own problems.",
+
+  "impact": [
+    "Generated approximately $1200 worth of professional invoices",
+    "Built to streamline a real contractual invoicing workflow",
+    "Reduced repetitive manual invoice creation",
+    "Produces consistent, professional invoices within seconds"
+  ],
+
+  "date": "2026-08-01",
+
+  "status": "active",
+
+  "type": "web-app",
+
+  "github": "https://github.com/hridhaan-s/Invoice-generator-",
+
+  "live": "https://invoice.hridhaan.me",
+
+  "featured": false,
+
+  "coverImage": "https://cdn.hackclub.com/019fbc1d-752b-770d-a190-6fa13e05a1be/screenshot_2026-08-01_122500.png",
+
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+
+  "tags": [
+    "tool",
+    "productivity",
+    "finance",
+    "invoice",
+    "personal"
+  ],
+
+  "gallery": [
+    "https://cdn.hackclub.com/019fbc1d-77a7-797f-8954-b09fff7f6366/screenshot_2026-08-01_122505.png",
+    "https://cdn.hackclub.com/019fbc1d-7a43-792e-8776-6a21326b7254/screenshot_2026-08-01_122545.png"
+  ]
+}
+,
+
 {
   "id": "pet-care-guide",
   "title": "Pet Care Guide",
