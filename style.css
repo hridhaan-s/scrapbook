@@ -1,7 +1,3 @@
-html{
-    scroll-behavior:smooth;
-}
-
 body{
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -33,9 +29,6 @@ button,
     box-sizing: border-box;
 }
 
-html {
-    scroll-behavior: smooth;
-}
 
 /* =========================
    PAGE
